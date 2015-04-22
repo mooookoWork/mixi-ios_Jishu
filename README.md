@@ -2,3 +2,4 @@
 # mixi-ios_Jishu
 # mixi_iosTraining
 # mixi_iosTraining
+# mixi_iosTraining
